@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "G:/Programas/xampp/htdocs/backend-dm"
+		},
+		{
+			"path": "G:/AA - Programacion/Curso Plataforma 5/htmls Plataforma 5"
+		},
+		{
+			"path": "G:/AA - Programacion/Digitalmind/front end"
+		},
+		{
+			"path": "G:/AA - Programacion/proyectos"
+		},
+		{
+			"path": "G:/AA - Programacion/Udemy"
+		},
+		{
+			"path": "G:/Programas/xampp/htdocs/app"
+		},
+		{
+			"path": "G:/AA - Programacion/proyectos/Nautica basico"
+		},
+		{
+			"path": "../../desafios"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desafios"
+	}
+}
